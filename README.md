@@ -1,2 +1,2 @@
-# 331-repo-demo
-My first repository, stat331
+# Template of a Repository
+My first example, stat 331
