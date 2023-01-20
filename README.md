@@ -1,2 +1,2 @@
 # Template of a Repository
-My first example, stat 331
+Lets get into it.
